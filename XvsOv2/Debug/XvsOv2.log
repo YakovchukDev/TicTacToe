@@ -1,0 +1,5 @@
+﻿  f1.cpp
+  main.cpp
+B:\Програмирувание\Games\XvsOv2\XvsOv2\main.cpp(109,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  XvsOv2.vcxproj -> B:\Програмирувание\Games\XvsOv2\Debug\XvsOv2.exe
